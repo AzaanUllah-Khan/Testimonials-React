@@ -1,0 +1,58 @@
+[
+    {
+        "name": "AzaanUllah Khan",
+        "message": "This platform helped me land my first freelance gig.",
+        "rating": 5,
+        "photo": "src/assets/photos/Azaan.jpeg",
+        "location": "Karachi, Pakistan"
+    },
+    {
+        "name": "Emily Johnson",
+        "message": "Very intuitive and beginner-friendly. Loved the UI.",
+        "rating": 4,
+        "photo": "src/assets/photos/Emily.jpg",
+        "location": "Austin, USA"
+    },
+    {
+        "name": "Mohammed Ali",
+        "message": "I use it daily for practice. Super fast and reliable.",
+        "rating": 5,
+        "photo": "src/assets/photos/Mohammed.jpg",
+        "location": "Cairo, Egypt"
+    },
+    {
+        "name": "Sofia Ribeiro",
+        "message": "Clean UI and amazing features. Helped me stay consistent.",
+        "rating": 4,
+        "photo": "src/assets/photos/Sofia.jpg",
+        "location": "Lisbon, Portugal"
+    },
+    {
+        "name": "Yuki Tanaka",
+        "message": "It’s the best platform for daily JavaScript practice.",
+        "rating": 5,
+        "photo": "src/assets/photos/Yuki.jpg",
+        "location": "Tokyo, Japan"
+    },
+    {
+        "name": "Olivia Smith",
+        "message": "Could use more templates, but overall it’s awesome.",
+        "rating": 4,
+        "photo": "src/assets/photos/Olivia.jpg",
+        "location": "London, UK"
+    },
+    {
+        "name": "Ravi Kumar",
+        "message": "Easy to use, well-designed, and regularly updated.",
+        "rating": 5,
+        "photo": "src/assets/photos/Ravi.jpg",
+        "location": "Delhi, India"
+    },
+    {
+        "name": "Amela Kerr",
+        "message": "Love the dark mode and keyboard shortcuts.",
+        "rating": 4,
+        "photo": "src/assets/photos/Amela.jpg",
+        "location": "Mexico City, Mexico"
+    }
+]
