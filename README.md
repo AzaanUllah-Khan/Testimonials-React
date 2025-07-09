@@ -7,3 +7,4 @@ This project displays user testimonials in a clean and responsive layout.
 - Clean and modern design
 - Fully responsive across devices
 - Built using **React**, **CSS**, and reusable components
+- Fetches data from JSON file
